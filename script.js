@@ -21,7 +21,7 @@ const questions = [
           correctAnswer: "How the Grinch Stole Christmas"
         },
         {
-          question: "Which British band released the song 'I Wish It Could Be Christmas Everyday'?",
+          question: "Who released the song 'I Wish It Could Be Christmas Everyday'?",
           options: ["Slade", "Wizzard", "The Pogues", "East 17"],
           correctAnswer: "Wizzard"
         },
@@ -31,7 +31,7 @@ const questions = [
           correctAnswer: "A Christmas Story"
         },
         {
-          question: "Film where Tim Allen becomes Santa Claus?",
+          question: "Film with Tim Allen?",
           options: ["Elf", "The Santa Clause", "A Christmas Carol", "Home Alone"],
           correctAnswer: "The Santa Clause"
         },
@@ -86,9 +86,9 @@ const questions = [
           correctAnswer: "Mariah Carey"
         },
         {
-          question: "What is hung for good behavior rewards?",
-          options: ["Candy Canes", "Ornaments", "Advent Calendar", "Stockings"],
-          correctAnswer: "Stockings"
+          question: "What's commonly used as a Snowman's nose?",
+          options: ["Cucumber", "Sausage", "Carrot", "Twig"],
+          correctAnswer: "Carrot"
         },
         {
           question: "What is used to decorate the front door?",
@@ -121,9 +121,9 @@ const questions = [
         correctAnswer: "The Grinch"
       },
       {
-        question: "Which ornament is often placed atop trees?",
-        options: ["Star", "Angel", "Snowflake", "Santa Claus"],
-        correctAnswer: "Star"
+        question: "What symbol represents peace during the holiday season?",
+        options: ["Dove", "Snowflake", "Bell", "Candle"],
+        correctAnswer: "Dove"
       },
       {
         question: "What's hidden in the Christmas pudding?",
@@ -161,9 +161,9 @@ const questions = [
         correctAnswer: "List"
       },
       {
-        question: "Who's 'Rockin' Around the Christmas Tree'?",
-        options: ["Brenda Lee", "Elvis Presley", "Nat King Cole", "Mariah Carey"],
-        correctAnswer: "Brenda Lee"
+        question: "How many reindeer does Santa Claus have?",
+        options: ["7", "8", "9", "10"],
+        correctAnswer: "8"
       }
 ];
 
